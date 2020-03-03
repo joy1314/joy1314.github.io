@@ -15,7 +15,7 @@ or annotation. Before that, I got my Bachelor degree in automation in
 
 * 2010/09-2013/06 Tianjin Yinghua International School
 * 2013/09-2017/06 Bachelor degree in Automation
-* 2017/09-2020/06 Master degree in Computer Science and Technology, Supervisor: Pietro Zucca
+* 2017/09-2020/06 Master degree in Computer Science and Technology
 
 
 [Data intelligence laboratory]: http://ciil.nankai.edu.cn/
