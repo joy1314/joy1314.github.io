@@ -18,7 +18,7 @@ or annotation. Before that, I got my Bachelor degree in automation in
 
 2017/09-2020/06 Master degree in Computer Science and Technology, Supervisor: Pietro Zucca
 
-
+lala
 [Data intelligence laboratory]: http://ciil.nankai.edu.cn/
 [Nankai University]: http://www.nankai.edu.cn/
 
