@@ -5,7 +5,7 @@ layout: page
 # About Me
 
 <img src="/images/jasonansel4.jpg" class="floatpic" width="200" height="300">
-My name is Jason Ansel.  I am a Senior Principal Engineer at GoDaddy, where I
+My name is Jing Xu (Joy).  I am a Senior Principal Engineer at GoDaddy, where I
 help lead the GoDaddy Machine Learning team.  Our team builds a deep learning
 platform for predicting small business behavior and personalizing experiences
 across GoDaddy.  Before that, I created [GoDaddy Domain Appraisals], which
