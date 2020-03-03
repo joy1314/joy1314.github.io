@@ -6,7 +6,7 @@ title: Hobbies
 
 ## Hobbies
 
-### Powerlifting
+### Badminton
 
 I usually play badminton in my spare time. It is my favorite sport.
 I also keep healthy by jogging or cycling.
