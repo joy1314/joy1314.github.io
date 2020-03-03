@@ -8,6 +8,7 @@ pubs:
     month: "December"
     year: "2019"
     booktitle: "Bioinformatics"
+    code: "https://github.com/zhanglabNKU/eCAMI"
     url: "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz908/5651014"
 
   - author: "Xin Su†, Jing Xu†, Yanbin Yin, Xiongwen Quan, Han Zhang"
@@ -15,6 +16,7 @@ pubs:
     month: "December"
     year: "2019"
     booktitle: "BMC Bioinformatics"
+    code: "https://github.com/zhanglabNKU/APIN"
     url: "https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-3327-y"
 
   - author: "Xia Guo, Xue Jiang, Jing Xu, Xiongwen Quan, Min Wu, Han Zhang"
@@ -42,6 +44,7 @@ pubs:
     {% endif %} {{pub.month}}, {{pub.year}}. {% if pub.slides %}[Slides]({{pub.slides}}).
     {% endif %}{% if pub.key %}[Bibtex](http://groups.csail.mit.edu/commit/bibtex.cgi?key={{pub.key}}).
     {% endif %}{% if pub.bibtex %}[Bibtex]({{pub.bibtex}}).
+    {% endif %}{% if pub.code %}[Code]({{pub.code}}).
     {% endif %}
 {% endunless %}
 {% endfor %}
