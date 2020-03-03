@@ -49,7 +49,7 @@ pubs:
 {% endunless %}
 {% endfor %}
 
-# Patents
+## Patents
 
 See [Google Patent Search results](https://patents.google.com/?inventor=Jason+Ansel,-Lango&num=100&sort=old).
 
