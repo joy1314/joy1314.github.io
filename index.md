@@ -6,7 +6,7 @@ layout: page
 
 <img src="/images/jasonansel4.jpg" class="floatpic" width="200" height="300">
 My name is Jing Xu (Joy).  I am a master student under the supervision of 
-Prof. Han Zhang in [Data intelligence laboratory], [Nankai University]. 
+Prof. Han Zhang in [Nankai University], [Data intelligence laboratory],. 
 I am interested in developing tools for biological sequences classification 
 or annotation. Before that, I got my Bachelor degree in automation in 
 [Nankai University].
