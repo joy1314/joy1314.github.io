@@ -5,16 +5,11 @@ layout: page
 # About Me
 
 <img src="/images/jasonansel4.jpg" class="floatpic" width="200" height="300">
-My name is Jing Xu (Joy).  I am a Senior Principal Engineer at GoDaddy, where I
-help lead the GoDaddy Machine Learning team.  Our team builds a deep learning
-platform for predicting small business behavior and personalizing experiences
-across GoDaddy.  Before that, I created [GoDaddy Domain Appraisals], which
-uses neural networks to predict the resale value of a domain name
-better than a human expert.  At GoDaddy, I also worked on creating machine
-learning algorithms for extracting semantic information from unstructured
-web content.  I joined GoDaddy in 2013 as part of the [acquisition] of the
-startup [Locu], which I joined in 2011 while I was simultaneously getting
-my Ph.D. at [MIT][MIT] [CSAIL].
+My name is Jing Xu (Joy).  I am a master student under the supervision of 
+Prof. Han Zhang in [Data intelligence laboratory] [Nankai University]. 
+I am interested in developing tools for biological sequences classification 
+or annotation. Before that, I got my Bachelor degree in automation in 
+[Nankai University].
 
 I did my Ph.D. dissertation in the [Commit] group lead by  [Saman Amarasinghe].
 I started the [OpenTuner] project, an extensible framework for program
@@ -30,7 +25,8 @@ distributed checkpoint/restart system.
 [DMTCP]: http://dmtcp.sourceforge.net/
 [Gene Cooperman]: http://www.ccs.neu.edu/home/gene/
 [Locu]: http://locu.com/
-[MIT]: http://www.mit.edu/
+[Data intelligence laboratory]: http://ciil.nankai.edu.cn/
+[Nankai University]: http://www.nankai.edu.cn/
 [OpenTuner]: http://opentuner.org/
 [PetaBricks]: http://projects.csail.mit.edu/petabricks/
 [Commit]: http://groups.csail.mit.edu/commit/
