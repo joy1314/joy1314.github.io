@@ -2,7 +2,7 @@
 layout: page
 ---
 
-## About Me  <a href="JingXu.pdf" target="_blank">CV<a>
+## About Me  <font face="黑体" color=green size=5><a href="JingXu.pdf" target="_blank">CV<a></font>
 
 
 My name is Jing Xu (Joy).  I am a master student under the supervision of 
