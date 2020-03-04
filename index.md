@@ -2,8 +2,8 @@
 layout: page
 ---
 
-## About Me  <font face="黑体" color=green size=5><a href="JingXu.pdf" target="_blank">CV<a></font>
-
+## About Me  
+### <a href="JingXu.pdf" target="_blank">CV<a>
 
 My name is Jing Xu (Joy).  I am a master student under the supervision of 
 Prof. Han Zhang in [Data Intelligence Laboratory], [Nankai University]. 
