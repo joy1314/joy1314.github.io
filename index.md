@@ -4,7 +4,7 @@ layout: page
 
 ## About Me
 
-<img src="/images/joy_1.jpg" class="floatpic" width="200" height="200">
+<img src="/images/joy_1.jpg" class="floatpic" width="150" height="200">
 My name is Jing Xu (Joy).  I am a master student under the supervision of 
 Prof. Han Zhang in [Data Intelligence Laboratory], [Nankai University]. 
 I am interested in developing tools for biological sequences classification 
