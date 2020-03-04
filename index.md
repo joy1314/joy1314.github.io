@@ -2,7 +2,7 @@
 layout: page
 ---
 
-## About Me  [CV]
+## About Me   [CV]
 
 
 My name is Jing Xu (Joy).  I am a master student under the supervision of 
@@ -19,5 +19,5 @@ or annotation. Before that, I got my Bachelor degree in [Nankai University].
 
 [Data Intelligence Laboratory]: http://ciil.nankai.edu.cn/
 [Nankai University]: http://www.nankai.edu.cn/
-[CV]: 
+[CV]: https://github.com/joy1314/joy1314.github.io/blob/master/JingXu.pdf
 
