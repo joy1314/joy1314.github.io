@@ -19,5 +19,5 @@ or annotation. Before that, I got my Bachelor degree in [Nankai University].
 
 [Data Intelligence Laboratory]: http://ciil.nankai.edu.cn/
 [Nankai University]: http://www.nankai.edu.cn/
-[CV]: https://github.com/joy1314/publications/JingXu.pdf
+[CV]: https://github.com/joy1314/JingXu.pdf
 
