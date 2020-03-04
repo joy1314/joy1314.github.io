@@ -8,8 +8,7 @@ layout: page
 My name is Jing Xu (Joy).  I am a master student under the supervision of 
 Prof. Han Zhang in [Data intelligence laboratory], [Nankai University]. 
 I am interested in developing tools for biological sequences classification 
-or annotation. Before that, I got my Bachelor degree in automation in 
-[Nankai University].
+or annotation. Before that, I got my Bachelor degree in [Nankai University].
 
 ### Education experience
 
