@@ -3,7 +3,7 @@ layout: page
 ---
 
 ## About Me  
-***\[ <a href="JingXu.pdf" target="_blank">CV<a> \]***
+***\[<a href="JingXu.pdf" target="_blank">CV<a>\]***
 
 My name is Jing Xu (Joy).  I am a master student under the supervision of 
 Prof. Han Zhang in [Data Intelligence Laboratory], [Nankai University]. 
