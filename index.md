@@ -3,7 +3,7 @@ layout: page
 ---
 
 ## About Me  
-
+#### \[ <a href="JingXu.pdf" target="_blank">CV<a> \]
 
 My name is Jing Xu (Joy).  I am a master student under the supervision of 
 Prof. Han Zhang in [Data Intelligence Laboratory], [Nankai University]. 
@@ -16,7 +16,7 @@ or annotation. Before that, I got my Bachelor degree in [Nankai University].
 * 2013/09-2017/06 Bachelor degree in Automation
 * 2017/09-2020/06 Master degree in Computer Science and Technology
 
-### <a href="JingXu.pdf" target="_blank">CV<a>
+
   
 [Data Intelligence Laboratory]: http://ciil.nankai.edu.cn/
 [Nankai University]: http://www.nankai.edu.cn/
