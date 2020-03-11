@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/index.html
 title: Publications
 pubs:
-  - author: "**Jing Xu†**, Han Zhang†, Jinfang Zheng, Philippe Dovoedo, Yanbin Yin"
+  - author: "**Jing Xu**†, Han Zhang†, Jinfang Zheng, Philippe Dovoedo, Yanbin Yin"
     title: "eCAMI: simultaneous classification and motif identification for enzyme annotation"
     month: "December"
     year: "2019"
